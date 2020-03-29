@@ -1,0 +1,20 @@
+{
+  "name": "chrome-extension-quick-start",
+  "version": "1.0.0",
+  "description": "Chrome Extension Quick Start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rain120/chrome-extension-quick-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rain120/chrome-extension-quick-start/issues"
+  },
+  "homepage": "https://github.com/Rain120/chrome-extension-quick-start#readme"
+}
